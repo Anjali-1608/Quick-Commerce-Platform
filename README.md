@@ -2,7 +2,7 @@
 I've tried building a quick commerce platform, covering the essential features, a recommended technology stack centered around Spring Boot, and a high-level architectural diagram.
 
 
-# ===========================Building a Quick Commerce Platform with Spring Boot==================================
+# ===Building a Quick Commerce Platform with Spring Boot===
 Creating a quick commerce platform involves developing a robust, scalable, and real-time system capable of handling high transaction volumes and rapid deliveries. Spring Boot, with its extensive ecosystem, is an excellent choice for the backend, providing a solid foundation for microservices.
 
 Below, I'll outline the core features, a recommended technology stack, and a high-level architectural overview for such a platform.
